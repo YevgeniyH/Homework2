@@ -117,10 +117,14 @@ body {
     width: 162px;
     height: 58px;
     background-color: white;
-    margin: 0 auto 22px auto;
+    margin: 0 auto;
     padding: 0;
     color: #626262;
     border: 1px solid #626262;
+}
+
+.end {
+    padding-bottom: 22px;
 }
 
 
