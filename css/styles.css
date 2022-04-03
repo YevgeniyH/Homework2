@@ -75,8 +75,8 @@ body {
     /* убрали перенос стр-бл элеменотов в 4рх */
 }
 
-.post-item img {
-    margin-bottom: 27px;
+.post img {
+    margin-bottom: 18px;
 }
 
 .img-name {
@@ -84,19 +84,28 @@ body {
     font-weight: 300;
     color: #b4ad9e;
     font-size: 14px;
-    margin: 0px;
+    margin: 0px 0px 24px 0px;
 }
 
 .post-name {
     font-size:30px;
     font-weight: 400;
     line-height: 36px;
-    margin-top: 22px;
+    margin: 0px 0px 32px 0px;
 }
+
 
 .post-txt {
     font-size: 14px;
     margin: 0px;
+}
+
+.post-left {
+    margin-bottom: 128px;
+}
+
+.post-right {
+    margin-bottom: 128px;
 }
 
 .all-posts {
@@ -104,5 +113,14 @@ body {
 }
 .btn {
     font-size: 20px;
+    display: block;
+    width: 162px;
+    height: 58px;
+    background-color: white;
+    margin: 0 auto 22px auto;
+    padding: 0;
+    color: #626262;
+    border: 1px solid #626262;
 }
+
 
